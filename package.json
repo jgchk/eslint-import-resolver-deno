@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "author": "jake cheek <jake@f-m.fm>",
   "license": "GPL-3.0-or-later",
+  "keywords": ["deno", "eslint", "eslintplugin", "modules", "eslint-plugin-import"],
   "repository": {
     "type": "git",
     "url": "https://github.com/jgchk/eslint-import-resolver-deno.git"
