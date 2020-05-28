@@ -1,6 +1,6 @@
 {
   "name": "eslint-import-resolver-deno",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an eslint-plugin-import resolver for Deno",
   "main": "dist/index.js",
   "author": "jake cheek <jake@f-m.fm>",
