@@ -1,11 +1,17 @@
 {
   "name": "eslint-import-resolver-deno",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "an eslint-plugin-import resolver for Deno",
   "main": "dist/index.js",
   "author": "jake cheek <jake@f-m.fm>",
   "license": "GPL-3.0-or-later",
-  "keywords": ["deno", "eslint", "eslintplugin", "modules", "eslint-plugin-import"],
+  "keywords": [
+    "deno",
+    "eslint",
+    "eslintplugin",
+    "modules",
+    "eslint-plugin-import"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jgchk/eslint-import-resolver-deno.git"
