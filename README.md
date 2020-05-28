@@ -3,7 +3,7 @@
 [![license](https://img.shields.io/github/license/jgchk/eslint-import-resolver-deno?style=flat-square)](https://choosealicense.com/licenses/gpl-3.0/)
 [![npm](https://img.shields.io/npm/v/eslint-import-resolver-deno?style=flat-square)](https://www.npmjs.com/package/eslint-import-resolver-deno)
 
-Deno-style module resolution plugin for [`eslint-plugin-import`](https://www.npmjs.com/package/eslint-plugin-import)
+Deno-style module resolution plugin for [`eslint-plugin-import`](https://www.npmjs.com/package/eslint-plugin-import) 🦕
 
 ## install
 ```bash
