@@ -1,6 +1,6 @@
 {
   "name": "eslint-import-resolver-deno",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "an eslint-plugin-import resolver for Deno",
   "main": "dist/index.js",
   "author": "jake cheek <jake@f-m.fm>",
@@ -9,7 +9,9 @@
     "type": "git",
     "url": "https://github.com/jgchk/eslint-import-resolver-deno.git"
   },
-  "files": ["dist/**/*.js"],
+  "files": [
+    "dist/**/*.js"
+  ],
   "scripts": {
     "build": "tsc"
   },
