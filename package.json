@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/jgchk/eslint-import-resolver-deno.git"
   },
+  "files": ["dist/**/*.js"],
   "scripts": {
     "build": "tsc"
   },
