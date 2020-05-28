@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "author": "jake cheek <jake@f-m.fm>",
   "license": "GPL-3.0-or-later",
+  "repository": "https://github.com/jgchk/eslint-import-resolver-deno",
   "scripts": {
     "build": "tsc"
   },
