@@ -1,0 +1,17 @@
+{
+  "name": "eslint-import-resolver-deno",
+  "version": "1.0.0",
+  "description": "an eslint-plugin-import resolver for Deno",
+  "main": "dist/index.js",
+  "author": "jake cheek <jake@f-m.fm>",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "import-maps": "^0.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.5"
+  }
+}
