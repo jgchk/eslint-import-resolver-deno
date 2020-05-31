@@ -19,12 +19,6 @@ add the following to your `.eslintrc`:
 ```javascript
 {
   "plugins": ["import"],
-  "rules": {
-    "import/no-unresolved": "error", // turn on errors for missing imports
-    "import/extensions": ["error", "always", { // force imports to have extensions
-        "ignorePackages": true // ignore extension errors for Deno-style URL imports
-    }]
-  },
   "settings": {
     "import/resolver": "eslint-import-resolver-deno"
   }
